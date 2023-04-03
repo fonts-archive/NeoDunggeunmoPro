@@ -36,7 +36,8 @@ font-face
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NeoDunggeunmoPro/NeoDunggeunmoPro.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/NeoDunggeunmoPro/NeoDunggeunmoPro.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NeoDunggeunmoPro/NeoDunggeunmoPro.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NeoDunggeunmoPro/NeoDunggeunmoPro.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NeoDunggeunmoPro/NeoDunggeunmoPro.woff2') format('woff2');
 }
 ```
