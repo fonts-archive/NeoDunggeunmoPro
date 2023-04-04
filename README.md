@@ -15,7 +15,7 @@ font-family: 'Neo Dunggeunmo Pro';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NeoDunggeunmoPro/NeoDunggeunmoPro.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NeoDunggeunmoPro/NeoDunggeunmoPro.css" type="text/css"/>
 ```
 
 &nbsp;
